@@ -1,4 +1,5 @@
-##This is a basic Youtube scrapper
+This is a basic Youtube scrapper.
+
 You can :
 - Scrape by tags
 - Scrape usernames, Youtube urls, description, subscribers count, views count.
